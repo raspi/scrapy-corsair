@@ -1,2 +1,6 @@
-class Memory(dict):
+class Item(dict):
+    pass
+
+
+class Memory(Item):
     pass
